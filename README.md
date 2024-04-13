@@ -18,6 +18,7 @@ PhD Earth Science, Tohoku University
 
 # Experience
 2023/04 –          Assistant Professor (Specially Appointed), Tohoku University
+
 2021/10 – 2022/09  Research Assistant, Tohoku University
 
 
