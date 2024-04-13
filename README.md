@@ -1,6 +1,6 @@
 # Resume
 
-# Sambuddha DHAR
+# S𝜶mβu𝛿𝛿h𝜶 DHA𝚪
 Assistant Professor (Specially Appointed)
 
 Department of Earth Science, Tohoku University
