@@ -2,7 +2,9 @@
 
 # Sambuddha DHAR
 Assistant Professor (Specially Appointed)
+
 Department of Earth Science, Tohoku University
+
 Email: dhar.sambuddha.b5@tohoku.ac.jp
 
 # About ME: 
@@ -65,6 +67,8 @@ Kahoku shimpo, https://kahoku.news/articles/20230622khn000039.html, Jun, 2023 Ne
 # Professional Membership
 
 European Geoscience Union
+
 Japan Geoscience Union
+
 American Geophysical Union
 
