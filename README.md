@@ -1,6 +1,6 @@
 # Resume
 
-# S$\alpha$m$\beta$u$\delta$$\delta$h$\alpha$ DH$\Lambda\Gamma$
+# S a m b u d d h  D H A R
 Assistant Professor (Specially Appointed)
 
 Department of Earth Science, Tohoku University
