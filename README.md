@@ -15,7 +15,7 @@ Crustal deformation, Space geodesy, Rheology of rocks
 
 
 # Education
-PhD Earth Science, Tohoku University
+2022 PhD Earth Science, Tohoku University
 
 
 # Experience
