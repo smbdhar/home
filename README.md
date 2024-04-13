@@ -1,6 +1,6 @@
 # Resume
 
-# S a m b u d d h  D H A R
+# S a m b u d d h a   D H A R
 Assistant Professor (Specially Appointed)
 
 Department of Earth Science, Tohoku University
