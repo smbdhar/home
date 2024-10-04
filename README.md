@@ -1,5 +1,3 @@
-# Resume
-
 # S𝜶mβu𝛿𝛿h𝜶 DHΛ𝚪
 Assistant Professor (Specially Appointed)
 
