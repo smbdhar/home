@@ -37,11 +37,15 @@ Dhar, S., Muto, J., Ito, Y., Miura, S., Moore, J. D., Ohta, Y., & Iinuma, T. (20
 
 Dhar, S., Takada, Y., Muto, J.: Illuminating low-viscosity zone beneath Quaternary volcanoes by numerical simulation of postseismic deformation of the 2011 Tohoku-oki earthquake, Slow-to-fast earthquake workshop, Tokyo. 2023
 
+Dhar, S.: Illuminating heterogeneous crustal movement with anelastic deformation: case studies in NE Japan and SW Taiwan. Workshop at National Cheng Kung University, Taiwan, Oct-26, 2023
+
 Dhar, S. & Muto, J.: Function Model with Power-law Rheology: Prediction of Postseismic GNSS Time Series after the 2011 Tohoku-oki Earthquake, 6th Japan-Taiwan Workshop on Crustal Dynamics (JTWCD6), Kyoto University, 14 June, 2023.
 
 Dhar, S., Muto, J., Ohta, Y., Iinuma, T.: Importance of heterogeneous rheology model for the postseismic deformation of megathrust earthquake. Japan Geoscience Union Meeting 2023, May 26, 2023.
 
 Dhar, S. & Muto, J.: Arc-parallel changes of water content inferred from the postseismic deformation of the 2011 Tohoku-oki earthquake. Japan Geoscience Union Meeting 2023, May 21, 2023.
+
+Dhar, S.: Importance of heterogeneous rheology in postseismic deformation of the 2011 Tohoku-oki earthquake. 地震研集会, Mar 9, 2023.
 
 Dhar, S. and Muto, J.: Predictive decay functions to forecast long-term GNSS time series after the 2011 Tohoku-oki earthquake, Japan Geoscience Union Meeting 2022, May 27, 2022
 
@@ -52,12 +56,6 @@ Dhar, S. and Muto, J.: Geodetic inference on decadal afterslip following the 201
 Dhar, S., Muto, J., Ito, Y., Miura, S., Moore, J. D. P., Ohta, Y., and Iinuma, T.: Post-seismic recovery of subsided coastal northeast Japan after the 2011 Tohoku-oki earthquake, EGU General Assembly 2021, online, 19–30 Apr 2021, EGU21-10467, https://doi.org/10.5194/egusphere-egu21-10467, 2021.
 
 Moore, J., Dhar, S., Muto, J., Sato, D., & Takada, Y. (2021, December). The role of rheological heterogeneities in earthquake deformation. In AGU Fall Meeting Abstracts (Vol. 2021, pp. MR35B-16).
-
-## Invited Presentations: 
-
-Dhar, S.: Illuminating heterogeneous crustal movement with anelastic deformation: case studies in NE Japan and SW Taiwan. Workshop at National Cheng Kung University, Taiwan, Oct-26, 2023
-
-Dhar, S.: Importance of heterogeneous rheology in postseismic deformation of the 2011 Tohoku-oki earthquake. 地震研集会, Mar 9, 2023.
 
 ## Media Coverage: 
 
