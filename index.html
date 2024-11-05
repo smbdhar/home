@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Sambuddha's page</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <div class="hero">
+            <nav>
+                <ul class="sidebar">
+                    <li onclick=hideSidebar()><a href="#"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#000"><path d="m256-200-56-56 224-224-224-224 56-56 224 224 224-224 56 56-224 224 224 224-56 56-224-224-224 224Z"/></svg></a></li>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="research.html">Latest research</a></li>
+                    <li><a href="database.html">Database</a></li>
+                    <li><a href="publications.html">Publications</a></li>
+                    <li><a href="aboutme.html">About Me</a></li>
+                    <li><a href="japanese.html">日本語</a></li>
+                </ul>
+                <!-- <h2 class="logo">SAMBUDDHA's<span>page</span></h2> -->
+                <ul>
+                    <li class="logoOn"><a href="#"><strong>SAMBUDDHA</strong>'s page</a></li>
+                    <li class="hideOnMobile"><a href="#">Home</a></li>
+                    <li class="hideOnMobile"><a href="research.html">Latest research</a></li>
+                    <li class="hideOnMobile"><a href="database.html">Database</a></li>
+                    <li class="hideOnMobile"><a href="publications.html">Publications</a></li>
+                    <li class="hideOnMobile"><a href="aboutme.html">About Me</a></li>
+                    <li class="hideOnMobile"><a href="japanese.html">日本語</a></li>
+                    <li class="menu-button" onclick=showSidebar()><a href="#"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#000"><path d="M120-240v-80h720v80H120Zm0-200v-80h720v80H120Zm0-200v-80h720v80H120Z"/></svg></a></li>
+                </ul>
+            </nav>
+
+
+            <script>
+                function showSidebar(){
+                    const sidebar=document.querySelector('.sidebar')
+                    sidebar.style.display='flex'
+                }
+                function hideSidebar(){
+                    const sidebar=document.querySelector('.sidebar')
+                    sidebar.style.display='none'
+                }
+            </script>
+        </div>
+
+        <div class="coverphoto">
+             <h1 id="mysub">Earthquake-related crustal deformation</h1>
+
+             <div style="position:relative; top: 115px;padding-right: 10px;">
+                <p style="text-align: right;">Welcome to the page of<br>
+                    <span style="font-size:x-large; font-weight: bold;">Sambuddha DHAR</span>
+                </p>
+                <!-- <h2 style="text-align: right;"> Sambuddha DHAR </h2> -->
+             </div>
+
+             <!-- <div class="myname">
+                <p>Welcome to the page of</p>
+                <h2> Sambuddha DHAR </h2>
+             </div>       
+             <div class="photocourtesy">Matogahama Beach, Beppu, Japan &#169 Sambuddha Dhar -->
+
+             </div>     
+        </div>
+        <p> <br> </p> 
+
+        <div class="myRH" style="max-height: 400px; overflow: scroll;">
+            <p style="font-size: small;"><span style="font-weight: bold;">-- Research Updates -- </span></p> <br>
+            
+            2024-Apr-19 <span style="color: red;"> <i> [Conference presentation]</i></span><br>Rheology of weak lithosphere beneath active volcanoes of NE Japan: Insights from postseismic deformation of 2011 Tohoku-oki earthquake, EGU24, Vienna, April 19, 2024 <a href="https://doi.org/10.5194/egusphere-egu24-13903"><i>Read more...</i> </a> <br><br>    
+
+            2023-May-10 <span style="color: red;"> <i> [Tohoku University Press Release]</i></span><br>New method developed to analyze ground movements after a major earthquake predicts ground movements 10 years after the Tohoku-Pacific Ocean Earthquake from GNSS observation data with accuracy 1/10th that of conventional techniques (in Japanese). <a href="https://www.tohoku.ac.jp/japanese/2023/05/press20230510-02-gnss.html"><i>Read more...</i> </a><br><br>
+
+            2023-May-03 <span style="color: red;"> <i> [New research]</i></span><br>Physics-based regression model for postseismic GNSS time series. <a href="research.html#Dhar&Muto23GRL"><i>Read more...</i> </a> <br><br>
+
+            2023-Feb-28 <span style="color: red;"> <i> [New research]</i></span><br>How GNSS measurements reveal heterogeneous rheology of northeastern Japan? <a href="research.html#Dhar+23SPEPS"><i>Read more...</i> </a><br><br>
+
+            2022-Feb-30 <span style="color: red;"> <i> [New research]</i></span><br>Arc-parallel variation of "cold nose" geometry in northeastern Japan <a href="research.html#Dhar+22GJI"><i>Read more...</i> </a>
+
+        </div>
+        <p> <br> </p> 
+
+        <div class="myRH">
+            <p style="font-size: small;"><span style="font-weight: bold;"># RESEARCH GLIMPSES !!</span></p> <br>
+            <h4>Physics-based regression model for postseismic GNSS time series </h4> <a href="research.html"><i>Read more...</i> </a> <br>
+            <img src="images/functionmodel.png" class="RGimg">
+        </div>
+        <p> <br> </p> 
+        
+        <div class="contactinfo">
+        <div class="container">
+            <div class="contactinfo1">
+                <p style="font-weight: bold;"> Contact info:</p><br>
+                <p> Sambuddha Dhar <br>
+                    Department of Earth Science,
+                    Graduate School of Science,
+                    Tohoku University <br>
+                    6-3 Aramaki-Aza-Aoba, Aoba-Ku, Sendai,
+                    Miyagi 980-8578 Japan <br>
+                    dhar.sambuddha.b5@tohoku.ac.jp
+                </p><br>
+            </div>
+
+            <div class="otherlinks1">
+                <p style="font-weight: bold;"> Other links: </p><br>
+                <p><a href="https://github.com/smbdhar"><i>GitHub</i></a> </p>
+                <p><a href="https://researchmap.jp/sdhar"><i>researchmap</i></a> </p>
+            </div>
+        </div>
+        </div>
+        <p> <br> </p> 
+        <!-- <div class="myRH">
+            <p></p>
+        </div> -->
+        <!-- <div class="blank"></div> -->
+
+        <div class="footer">
+            &#169 2024 Sambuddha Dhar. All rights reserved. <br> Last update: 2024-10-17,
+            Contact me: <a href="mailto:dhar.sambuddha.b5@tohoku.ac.jp"><svg xmlns="http://www.w3.org/2000/svg" height="16px" viewBox="0 -1150 960 980" width="24px" fill="rgb(150,150,150)"><path d="M160-160q-33 0-56.5-23.5T80-240v-480q0-33 23.5-56.5T160-800h640q33 0 56.5 23.5T880-720v480q0 33-23.5 56.5T800-160H160Zm320-280L160-640v400h640v-400L480-440Zm0-80 320-200H160l320 200ZM160-640v-80 480-400Z"/></svg></a>
+        </div>
+
+    </body>
+</html>
