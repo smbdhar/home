@@ -1,3 +1,5 @@
-# S𝜶mβu𝛿𝛿h𝜶 DHΛ𝚪
+# 
+Welcome visitor. You have land on older version of the github page. 
 
-Go to https://smbdhar.github.io/home/
+Please redirect to new version of the homepage below: 
+https://smbdhar.github.io/
