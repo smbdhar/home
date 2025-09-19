@@ -1,6 +1,6 @@
 # 
-Welcome visitor. You have land on older version of the github page. 
+Welcome visitor! You have land on the older version of homepage. 
 
-Please redirect to new version of the homepage below:
+Please redirect to the new version of homepage below:
 
 https://smbdhar.github.io/
